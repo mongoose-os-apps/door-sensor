@@ -1,0 +1,30 @@
+author: Ben Rockwood <benr@cuddletech.com>
+description: IoT Door Sensor using a MC-38 (JavaScript)
+version: 1.0
+
+tags:
+  - door
+  - AWS
+  - JavaScript
+  - hw
+
+sources:
+  - src
+
+filesystem:
+  - fs
+
+libs:
+  - origin: https://github.com/mongoose-os-libs/rpc-service-config
+  - origin: https://github.com/mongoose-os-libs/rpc-service-fs
+  - origin: https://github.com/mongoose-os-libs/rpc-service-gpio
+  - origin: https://github.com/mongoose-os-libs/rpc-uart
+  - origin: https://github.com/mongoose-os-libs/rpc-mqtt
+  - origin: https://github.com/mongoose-os-libs/mjs
+
+skeleton_version: 2017-05-18
+
+# Custom Config (future)
+#config_schema:
+#  - ["my_app", "o", {title: "My app custom settings"}]
+#  - ["my_app.string_value", "s", "", {title: "Some string value"}]
