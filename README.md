@@ -1,4 +1,4 @@
-# Moongoose IoT Door Sensor
+# Mongoose IoT Door Sensor
 
 ## Overview
 
