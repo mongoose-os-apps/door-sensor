@@ -3,8 +3,7 @@
 ## Overview
 
 An IoT Door Sensor for any room you wish to monitor!
-Connect to AWS IoT or your favorite MQTT service to send real-time alerts
-to you any time a sensative door is opened, such as your office,
+Connect to AWS IoT or your favorite MQTT service to send real-time alerts anytime a sensitive door is opened, such as your office,
 your childs room, your front door, a safe... or get more creative!
 
 Monitor access to your [Little Free Library](https://littlefreelibrary.org/),
